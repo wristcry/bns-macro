@@ -1,0 +1,5 @@
+/.vs/*
+/Debug/*
+/Release/*
+/bns-macro.vcxproj.filters
+/bns-macro.vcxproj.user
